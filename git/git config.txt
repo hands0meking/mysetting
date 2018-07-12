@@ -1,0 +1,5 @@
+git config --global user.name hands0meking
+git config --global user.email 15989320823@163.com
+
+git config --global alias.st status
+git config --global alias.hist "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an %ae>%Creset' --abbrev-commit --"
